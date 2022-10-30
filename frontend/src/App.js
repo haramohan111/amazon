@@ -5,7 +5,7 @@ function App() {
         <a href="/">amazon</a>
       </header>
       <main>
-        list products hello
+        list products
       </main>
     </div>
   );
